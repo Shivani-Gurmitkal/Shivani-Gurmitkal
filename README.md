@@ -34,11 +34,14 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 ---
 
 ## 📌 Featured Projects
+ 
+🔹 [**Counter Application**](GitHub Repo Link) - A simple app for scheduling meetings using Context API & Axios.
 
-🔹 [**Netflix Clone**](GitHub Repo Link) - A responsive Netflix UI clone built with React.js & Tailwind CSS.  
-🔹 [**Meeting Scheduling App**](GitHub Repo Link) - A simple app for scheduling meetings using Context API & Axios.  
+🔹 [**BMI Calculator**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS.
+
+🔹 [**Netflix Clone**](https://github.com/Shivani-Gurmitkal/Netflix.git) - A Netflix UI clone built with React.js & Tailwind CSS.  
+
 🔹 [**TouristPlaces Website**](GitHub Repo Link) - A travel website showcasing beautiful destinations.  
-🔹 [**BMI Calculator**](GitHub Repo Link) - A tool to calculate Body Mass Index using JavaScript.
 
 ---
 
