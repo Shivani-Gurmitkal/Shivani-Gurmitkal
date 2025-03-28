@@ -24,7 +24,6 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 ![Clerk](https://img.shields.io/badge/Clerk-%23007ACC.svg?style=for-the-badge&logo=clerk&logoColor=white)
 
 ### 🗄️ Backend & Database
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -54,9 +53,10 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E293B.svg?style=for-the-badge&logo=firefox&logoColor=white)](Your Portfolio URL)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-gurumitkal)
+[![Behance](https://img.shields.io/badge/Behance-%231776FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/shivanigurumitkal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231E293B.svg?style=for-the-badge&logo=firefox&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanigurumitkal3670@gmail.com)
 
 ---
 
