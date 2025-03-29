@@ -4,7 +4,7 @@
 I'm a passionate **Frontend Developer** who loves building beautiful and functional web applications. Currently, I'm learning and working with **React.js, Tailwind CSS, and JavaScript** to create engaging user interfaces.
 
 - 🔭 I’m currently working on **[PlanWise Meeting Website](https://github.com/Shivani-Gurmitkal/PlanWise.git)**
-- 🌱 I’m learning **React, Context API, and API integration**
+- 🌱 I’m learning **Backend and Webflow**
 - 💡 Fun fact: I enjoy designing user-friendly UIs and animations
 
 ---
@@ -40,22 +40,13 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 
 🔹 [**Netflix Clone**](https://github.com/Shivani-Gurmitkal/Netflix.git) - A Netflix UI clone built with React.js & Tailwind CSS.  
 
-🔹 [**TouristPlaces Website**](GitHub Repo Link) - A travel website showcasing beautiful destinations.  
-
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-gurumitkal)
 [![Behance](https://img.shields.io/badge/Behance-%231776FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/shivanigurumitkal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231E293B.svg?style=for-the-badge&logo=firefox&logoColor=white)]
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanigurumitkal3670@gmail.com)
 
 ---
