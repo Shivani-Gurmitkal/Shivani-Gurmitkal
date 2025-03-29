@@ -5,7 +5,6 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 
 - 🔭 I’m currently working on **[PlanWise Meeting Website](https://github.com/Shivani-Gurmitkal/PlanWise.git)**
 - 🌱 I’m learning **Backend and Webflow**
-- 💡 Fun fact: I enjoy designing user-friendly UIs and animations
 
 ---
 
@@ -33,8 +32,6 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 ---
 
 ## 📌 Featured Projects
- 
-🔹 [**Counter Application**](GitHub Repo Link) - A simple app for scheduling meetings using Context API & Axios.
 
 🔹 [**BMI Calculator**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS.
 
