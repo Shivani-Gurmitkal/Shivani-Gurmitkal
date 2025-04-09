@@ -33,9 +33,11 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 
 ## 📌 Featured Projects
 
-🔹 [**BMI Calculator**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS.
+🔹 [**Netflix Clone**](https://github.com/Shivani-Gurmitkal/Netflix.git) - A Netflix UI clone built with React.js & Tailwind CSS. 
 
-🔹 [**Netflix Clone**](https://github.com/Shivani-Gurmitkal/Netflix.git) - A Netflix UI clone built with React.js & Tailwind CSS.  
+🔹 [**BMI Calculator**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS. 
+
+🔹 [**Movie App**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS. 
 
 ---
 
