@@ -37,7 +37,7 @@ I'm a passionate **Frontend Developer** who loves building beautiful and functio
 
 🔹 [**BMI Calculator**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS. 
 
-🔹 [**Movie App**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - A tool to calculate Body Mass Index using React.js & Tailwind CSS. 
+🔹 [**Movie App**](https://github.com/Shivani-Gurmitkal/BMI_Calculator.git) - This fetches real-time movie data using an external API and displays detailed movie info with a modern UI. 
 
 ---
 
